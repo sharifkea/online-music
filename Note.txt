@@ -1,0 +1,10 @@
+mysql://b966dd4d295738:1dec63b6@eu-cdbr-west-02.cleardb.net/heroku_450d0e47e88ee45?reconnect=true
+
+
+un: b966dd4d295738
+pw: 1dec63b6
+Host: eu-cdbr-west-02.cleardb.net
+
+git add .
+git commit -m "Added index file and composer.json"
+git push heroku master
